@@ -69,8 +69,8 @@ This file includes:
 Adventure-Works-Data-Analysis/
 
 │
-├── sql/
-├── excel/
+|__ sql/
+├__ excel/
 ├── powerbi/
 ├── tableau/
 ├── final report/
