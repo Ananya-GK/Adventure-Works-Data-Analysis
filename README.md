@@ -68,14 +68,13 @@ This file includes:
 
 Adventure-Works-Data-Analysis/
 
-│
-|__ sql/
-├__ excel/
-├── powerbi/
-├── tableau/
-├── final report/
-├── images/
-└── README.md
+sql/
+| excel/
+| powerbi/
+| tableau/
+| final report/
+| images/
+| README.md
 
 ---
 
